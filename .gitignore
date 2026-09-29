@@ -1,0 +1,24 @@
+# Python & Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Environments & IDE
+.vscode/
+.idea/
+.env
+.venv/
+env/
+
+# Operating System
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Documents & Archives
+*.xlsx
+*.docx
+*.pdf
+*.zip
+*.tmp
+*.log
